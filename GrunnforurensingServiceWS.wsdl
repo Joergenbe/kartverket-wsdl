@@ -171,7 +171,7 @@
   </binding>
   <service name="GrunnforurensingServiceWS">
     <port binding="tns:GrunnforurensingServicePortBinding" name="GrunnforurensingServicePort">
-      <soap:address location="REPLACE_WITH_ACTUAL_URL"/>
+      <soap:address location="https://prodtest.matrikkel.no/matrikkelapi/wsapi/v1/dokumentasjon/GrunnforurensingService.html"/>
     </port>
   </service>
 </definitions>
